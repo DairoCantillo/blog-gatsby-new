@@ -3,32 +3,32 @@ const data = [
   {
     imageName: "electron-react.jpg",
     title: "Electron y Rect",
-    url: "https://courses.agustinnavarrogaldon.com/electron-react",
+    url: "/",
   },
   {
     imageName: "instaclone.jpg",
     title: "Instaclone",
-    url: "https://courses.agustinnavarrogaldon.com/instaclone",
+    url: "/",
   },
   {
     imageName: "react-native-cli.jpg",
     title: "React Native CLI",
-    url: "https://courses.agustinnavarrogaldon.com/react-native-cli",
+    url: "/",
   },
   {
     imageName: "react-native-expo.png",
     title: "React Native Expo",
-    url: "https://courses.agustinnavarrogaldon.com/react-native-expo",
+    url: "/",
   },
   {
     imageName: "mern.jpg",
     title: "MERN",
-    url: "https://courses.agustinnavarrogaldon.com/mern",
+    url: "/",
   },
   {
     imageName: "react-redux-nextjs.jpg",
     title: "React JS Hooks",
-    url: "https://courses.agustinnavarrogaldon.com/react",
+    url: "/",
   },
 ];
 export default data;
